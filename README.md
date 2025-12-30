@@ -167,6 +167,7 @@ CALCULATE(SUM('Loan_default'[LoanAmount]),DATESYTD('Loan_default'[Loan_Date_DD_M
 - Impact of mortgage and dependents on loan amount  
 
 **Focus:** Customer characteristics and financial behavior.
+<img width="1666" height="888" alt="Image" src="https://github.com/user-attachments/assets/22dd4337-6004-407c-b2ce-1d4e6cafc217" />
 
 #### 🔹 Page 3: Financial Risk Metrics
 - Year-on-Year (YOY) loan amount change  
@@ -175,6 +176,7 @@ CALCULATE(SUM('Loan_default'[LoanAmount]),DATESYTD('Loan_default'[Loan_Date_DD_M
 - Decomposition tree (Income → Employment Type)  
 
 **Focus:** Risk monitoring and trend analysis.
+<img width="1666" height="887" alt="Image" src="https://github.com/user-attachments/assets/ef819d32-0a8d-4c67-8c2a-2cf0a74e3006" />
 
 ### Key Insights Summary
 - Home and Business loans dominate the total loan amount  
