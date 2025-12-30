@@ -158,6 +158,7 @@ CALCULATE(SUM('Loan_default'[LoanAmount]),DATESYTD('Loan_default'[Loan_Date_DD_M
 - Default rate by year  
 
 **Focus:** Overall loan performance and default trends.
+<img width="1633" height="885" alt="Image" src="https://github.com/user-attachments/assets/7a4a5d3b-080a-4855-948d-868c8f9adfd2" />
 
 #### 🔹 Page 2: Applicant Demographics & Financial Profile
 - Median loan amount by credit score  
