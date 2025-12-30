@@ -159,8 +159,6 @@ CALCULATE(SUM('Loan_default'[LoanAmount]),DATESYTD('Loan_default'[Loan_Date_DD_M
 
 **Focus:** Overall loan performance and default trends.
 
-<img width="1633" height="885" alt="Image" src="https://github.com/user-attachments/assets/67ce412b-0512-4233-b057-b810f08a2221" />
-
 #### 🔹 Page 2: Applicant Demographics & Financial Profile
 - Median loan amount by credit score  
 - Loan distribution by age group and marital status  
@@ -169,8 +167,6 @@ CALCULATE(SUM('Loan_default'[LoanAmount]),DATESYTD('Loan_default'[Loan_Date_DD_M
 
 **Focus:** Customer characteristics and financial behavior.
 
-<img width="1666" height="888" alt="Image" src="https://github.com/user-attachments/assets/ddba3cf1-5078-4cf9-aac3-40b2b14952e1" />
-
 #### 🔹 Page 3: Financial Risk Metrics
 - Year-on-Year (YOY) loan amount change  
 - Year-on-Year (YOY) default loan change  
@@ -178,9 +174,6 @@ CALCULATE(SUM('Loan_default'[LoanAmount]),DATESYTD('Loan_default'[Loan_Date_DD_M
 - Decomposition tree (Income → Employment Type)  
 
 **Focus:** Risk monitoring and trend analysis.
-
-<img width="1666" height="887" alt="Image" src="https://github.com/user-attachments/assets/94213262-81a1-4925-b45a-c211d020d427" />
-
 
 ### Key Insights Summary
 - Home and Business loans dominate the total loan amount  
